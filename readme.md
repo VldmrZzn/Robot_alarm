@@ -70,7 +70,7 @@ services:
     restart: unless-stopped
 ```
 
-# Установка ssh для иашыны не в docker 
+# Установка ssh для машины не в docker 
 ```
 #!/bin/bash
 
